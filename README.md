@@ -11,7 +11,11 @@ development. Perfect for scientific computing, data analysis, and educational pu
 ### Creating Matrices
 
 ```php
-require 'vendor/autoload.php';
+require_once 'src/Exceptions/MatrixException.php';
+require_once 'src/Exceptions/DimensionException.php';
+require_once 'src/Exceptions/SingularMatrixException.php';
+require_once 'src/Exceptions/InvalidArgumentException.php';
+require_once 'src/Matrix.php';
 
 use MatrixPHP\Matrix;
 
