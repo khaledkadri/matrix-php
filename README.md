@@ -1,28 +1,12 @@
 # matrix-php
 A lightweight and efficient PHP library for matrix and vector operations with a clean object-oriented interface.
 
-## Topics/Tags (for GitHub)
-
-```
-php
-matrix
-linear-algebra
-mathematics
-scientific-computing
-matrix-operations
-php-library
-math
-numerical-computing
-determinant
-inverse-matrix
-transpose
-
 MatrixPHP provides a clean, object-oriented interface for matrix and vector 
 operations in PHP. With support for basic operations (addition, subtraction, 
 multiplication) and advanced features (determinant, inverse, transpose, cofactor), 
 it offers comprehensive exception handling and full type hints for modern PHP 
 development. Perfect for scientific computing, data analysis, and educational purposes.
-```
+
 ## Documentation
 ### Creating Matrices
 
